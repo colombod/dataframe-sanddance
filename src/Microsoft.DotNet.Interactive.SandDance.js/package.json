@@ -36,7 +36,7 @@
     "@msrvida/sanddance-react": "3.0.0-beta.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "vega": "^5.11"
+    "vega": "^5.17"
   },
   "devDependencies": {
     "@msrvida/fluentui-react-cdn-typings": "^1",
